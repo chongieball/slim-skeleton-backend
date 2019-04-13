@@ -1,2 +1,4 @@
 .idea
 vendor/
+app/settings.php
+phinx.yml
